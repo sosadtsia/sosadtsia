@@ -35,9 +35,6 @@ I’ve begun my journey in the tech industry, starting in system administration 
 <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="36" height="36" alt="ArgoCD" />
 </a>
-<a href="https://crossplane.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crossplane/crossplane-original.svg" width="36" height="36" alt="Crossplane" />
-</a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="36" height="36" alt="Helm" />
 </a>
