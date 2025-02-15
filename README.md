@@ -4,17 +4,17 @@
 DevOps Developer
 ________________
 
-I've been in the tech industry for 20 years, and it's been an incredible journey. Early on, I focused on system administration, mastering the intricacies of keeping systems running smoothly. About six years ago, I decided to embrace the future and dive into cloud-based infrastructure.  Since then, I've been working with AWS and exploring Google Cloud and Azure in my spare time. My primary passion is in infrastructure automation and tooling. I love the challenge of finding innovative ways to make systems more efficient and reliable. It's amazing to see how automation can transform workflows and free up time for more creative problem-solving. 
+I’ve begun my journey in the tech industry, starting in system administration where I explored various areas such as storage, data protection, and system monitoring. About six years ago, I shifted my focus to cloud-based infrastructure, working with AWS while also exploring Google Cloud and Azure in my spare time. I have a strong passion for infrastructure automation, tooling, and finding creative solutions that enhance both system efficiency and reliability. It’s incredible how automation can streamline workflows and open up new opportunities for innovative problem-solving! 
 
 * 🌍  I'm based in Ontario, Canada
 * 📫  You can contact me at [sviatoslav.osadtsia@gmail.com](mailto:sviatoslav.osadtsia@gmail.com)
 * 🌱  I’m currently learning Go
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on projects
 
-### Languages
+### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" /></a>
 </p>
 
 
