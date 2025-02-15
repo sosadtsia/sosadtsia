@@ -20,9 +20,6 @@ I’ve begun my journey in the tech industry, starting in system administration 
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="36" height="36" alt="Ansible" />
 </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="36" height="36" alt="AWS" />
-</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
 </a>
@@ -38,16 +35,23 @@ I’ve begun my journey in the tech industry, starting in system administration 
 </p>
 
 
-### Cloud & Containerization
+### Cloud
 
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+</a>
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/shr00mage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sosadtsia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sviatoslavosadtsia/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+<p align="left"> 
+<a href="https://discord.com/users/shr00mage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+</a> 
+<a href="https://www.github.com/sosadtsia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a>
+<a href="https://www.linkedin.com/in/sviatoslavosadtsia/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+</p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ### Badges
 
 <b>My GitHub Stats</b>
