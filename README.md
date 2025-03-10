@@ -8,7 +8,7 @@ I’ve begun my journey in the tech industry, starting in system administration 
 
 * 🌍  I'm based in Ontario, Canada
 * 📫  You can contact me at [sviatoslav.osadtsia@gmail.com](mailto:sviatoslav.osadtsia@gmail.com)
-* 🌱  I’m currently learning Python
+* 🌱  I’m currently learning Golang
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
