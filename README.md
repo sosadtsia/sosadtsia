@@ -4,7 +4,7 @@
 DevOps Developer
 ________________
 
-I’ve begun my journey in the tech industry, starting in system administration where I explored various areas such as storage, data protection, and system monitoring. About six years ago, I shifted my focus to cloud-based infrastructure, working with AWS while also exploring Google Cloud and Azure in my spare time. I have a strong passion for infrastructure automation, tooling, and finding creative solutions that enhance both system efficiency and reliability. It’s incredible how automation can streamline workflows and open up new opportunities for innovative problem-solving! 
+I’ve begun my journey in the tech industry, starting in system administration where I explored various areas such as storage, data protection, and system monitoring. Since 2019, I shifted my focus to cloud-based infrastructure, working with AWS while also exploring Google Cloud and Azure in my spare time. I have a strong passion for infrastructure automation, tooling, and finding creative solutions that enhance both system efficiency and reliability. It’s incredible how automation can streamline workflows and open up new opportunities for innovative problem-solving! 
 
 * 🌍  I'm based in Ontario, Canada
 * 📫  You can contact me at [sviatoslav.osadtsia@gmail.com](mailto:sviatoslav.osadtsia@gmail.com)
