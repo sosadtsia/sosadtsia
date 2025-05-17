@@ -46,7 +46,7 @@ I’ve begun my journey in the tech industry, starting in system administration 
 ### Cloud
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="Amazon Web Services" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="40" alt="Amazon Web Services" />
 </a>
 </p>
 
