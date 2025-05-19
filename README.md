@@ -34,16 +34,18 @@ I've begun my journey in the tech industry, starting in system administration wh
 
 ## 🚀 Projects
 
-<div align="left">
-  <a href="https://github.com/sosadtsia/awake">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsia&repo=awake&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-  <p>Awake - A CLI tool for macOS that prevents Mac from sleeping.</p>
+<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <a href="https://github.com/sosadtsia/awake">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsia&repo=awake&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    </a>
+  </div>
 
-  <a href="https://github.com/sosadtsia/github-manager-cli">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsia&repo=github-manager-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-  <p>GitHub Manager CLI - Tool for GitHub repository management.</p>
+  <div style="flex: 1; min-width: 300px;">
+    <a href="https://github.com/sosadtsia/github-manager-cli">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsia&repo=github-manager-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    </a>
+  </div>
 </div>
 
 ## 📊 GitHub Stats
