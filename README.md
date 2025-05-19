@@ -1,9 +1,7 @@
-# Sviatoslav Osadtsia
-
-<div align="center">
-  <img src="https://img.shields.io/badge/DevOps-Developer-blue?style=for-the-badge" alt="DevOps Developer"/>
-  <br>
-  <img src="https://img.shields.io/badge/Based%20In-Ontario,%20Canada-red?style=flat-square" alt="Location Badge"/>
+<div align="left">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge" alt="DevOps Developer"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge&logo=terraform" alt="Terraform"/>
 </div>
 
 ## About Me
@@ -29,27 +27,34 @@ I've begun my journey in the tech industry, starting in system administration wh
 
 ### Programming & Tools
 <p align="left">
+<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-### Cloud Platforms
+### Cloud
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="40" alt="Amazon Web Services" /></a>
 </p>
 
-## 🌟 Featured Projects
+## 🚀 Projects
 
-<!-- You can add your featured projects here -->
-<details>
-  <summary>Click to expand</summary>
-  <p>More projects coming soon!</p>
-</details>
+<div align="left">
+  <a href="https://github.com/sosadtsia/awake">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsia&repo=awake&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  </a>
+  <p>Awake - A CLI tool for macOS that prevents Mac from sleeping.</p>
+
+  <a href="https://github.com/SLAVNG/github-manager-cli">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SLAVNG&repo=github-manager-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  </a>
+  <p>GitHub Manager CLI - Tool for GitHub repository management.</p>
+</div>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/sosadtsia">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sosadtsia&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Slav's GitHub stats" />
   </a>
@@ -65,7 +70,7 @@ I've begun my journey in the tech industry, starting in system administration wh
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/1068230916037693440" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/sosadtsia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/sviatoslavosadtsia/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -73,7 +78,7 @@ I've begun my journey in the tech industry, starting in system administration wh
 
 ---
 
-<div align="center">
+<div align="left">
   <p>☕ Support My Work</p>
-  <a href="https://www.buymeacoffee.com/sosadtsia"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+  <a href="https://www.buymeacoffee.com/sosadtsia"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 </div>
