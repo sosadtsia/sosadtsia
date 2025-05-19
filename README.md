@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="https://img.shields.io/badge/Automation-green?style=for-the-badge" alt="Automation"/>
-</div>
-
 ## About Me
 
 I've begun my journey in the tech industry, starting in system administration where I explored various areas such as storage, data protection, and system monitoring. Since 2019, I shifted my focus to cloud-based infrastructure, working with AWS. I have a strong passion for infrastructure automation, tooling, and finding creative solutions that enhance both system efficiency and reliability.
@@ -45,7 +41,7 @@ I've begun my journey in the tech industry, starting in system administration wh
   <p>Awake - A CLI tool for macOS that prevents Mac from sleeping.</p>
 
   <a href="https://github.com/github-manager-cli">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SLAVNG&repo=github-manager-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsiaG&repo=github-manager-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <p>GitHub Manager CLI - Tool for GitHub repository management.</p>
 </div>
