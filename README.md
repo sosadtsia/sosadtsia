@@ -1,7 +1,5 @@
 <div align="left">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge" alt="DevOps Developer"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws" alt="AWS"/>
-  <img src="https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge&logo=terraform" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Automation-green?style=for-the-badge" alt="Automation"/>
 </div>
 
 ## About Me
@@ -46,7 +44,7 @@ I've begun my journey in the tech industry, starting in system administration wh
   </a>
   <p>Awake - A CLI tool for macOS that prevents Mac from sleeping.</p>
 
-  <a href="https://github.com/SLAVNG/github-manager-cli">
+  <a href="https://github.com/github-manager-cli">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SLAVNG&repo=github-manager-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <p>GitHub Manager CLI - Tool for GitHub repository management.</p>
