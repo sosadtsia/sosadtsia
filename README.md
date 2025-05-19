@@ -4,11 +4,11 @@
 DevOps Developer
 ________________
 
-I’ve begun my journey in the tech industry, starting in system administration where I explored various areas such as storage, data protection, and system monitoring. Since 2019, I shifted my focus to cloud-based infrastructure, working with AWS while also exploring Google Cloud and Azure in my spare time. I have a strong passion for infrastructure automation, tooling, and finding creative solutions that enhance both system efficiency and reliability.
+I've begun my journey in the tech industry, starting in system administration where I explored various areas such as storage, data protection, and system monitoring. Since 2019, I shifted my focus to cloud-based infrastructure, working with AWS while also exploring Google Cloud and Azure in my spare time. I have a strong passion for infrastructure automation, tooling, and finding creative solutions that enhance both system efficiency and reliability.
 
 * 🌍  I'm based in Ontario, Canada
 * 📫  You can contact me at [sviatoslav.osadtsia@gmail.com](mailto:sviatoslav.osadtsia@gmail.com)
-* 🌱  I’m currently learning Python
+* 🌱  I'm currently learning Python
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
@@ -52,23 +52,25 @@ I’ve begun my journey in the tech industry, starting in system administration 
 
 ### Socials
 
-<p align="left"> 
+<p align="left">
 <a href="https://discord.com/users/1068230916037693440" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-</a> 
+</a>
 <a href="https://www.github.com/sosadtsia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a>
-<a href="https://www.linkedin.com/in/sviatoslavosadtsia/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-</p>                                                                                                                                                                                                                                                                                                                                                                                              
+<a href="https://www.linkedin.com/in/sviatoslavosadtsia/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sosadtsia"><img src="https://github-readme-stats.vercel.app/api?username=sosadtsia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Slav's GitHub stats" />
+<a href="https://github.com/sosadtsia">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sosadtsia&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Slav's GitHub stats" />
 </a>
 
-<a href="https://github.com/sosadtsia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosadtsia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/sosadtsia">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sosadtsia&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
 </a>
 
 ### Support Me
