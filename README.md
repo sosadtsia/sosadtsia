@@ -1,6 +1,5 @@
 ## About Me
 
-- 🔭 I'm currently working on infrastructure automation
 - 🌱 I'm learning Go and advancing my Kubernetes skills
 - 🤝 I'm open to collaborating on projects
 - 📫 Contact me at [sviatoslav.osadtsia@gmail.com](mailto:sviatoslav.osadtsia@gmail.com)
