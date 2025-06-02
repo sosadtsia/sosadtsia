@@ -1,8 +1,6 @@
 ## About Me
 
-I've begun my journey in the tech industry, starting in system administration where I explored various areas such as storage, data protection, and system monitoring. Since 2019, I shifted my focus to cloud-based infrastructure, working with AWS. I have a strong passion for infrastructure automation, tooling, and finding creative solutions that enhance both system efficiency and reliability.
-
-- 🔭 I'm currently working on infrastructure automation and cloud architecture
+- 🔭 I'm currently working on infrastructure automation
 - 🌱 I'm learning Go and advancing my Kubernetes skills
 - 🤝 I'm open to collaborating on projects
 - 📫 Contact me at [sviatoslav.osadtsia@gmail.com](mailto:sviatoslav.osadtsia@gmail.com)
