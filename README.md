@@ -1,6 +1,6 @@
 ## About Me
 
-- 🌱 I'm learning Go and advancing my Kubernetes skills
+- 🌱 I'm learning Go
 - 🤝 I'm open to collaborating on projects
 - 📫 Contact me at [sviatoslav.osadtsia@gmail.com](mailto:sviatoslav.osadtsia@gmail.com)
 
