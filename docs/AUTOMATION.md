@@ -45,7 +45,7 @@ Steps: install `requirements.txt` (Pillow), run `python -m unittest discover -s 
 
 Image URLs include `?v=` plus the first 12 hex characters of the PNG sha256. The query changes when the image changes, so GitHub's image cache picks up the new file. Pin cards whose repo left `FEATURED_REPOS` are deleted.
 
-Leave the marker comments in place. Text outside the markers is left as it is. Skill icons, social icons, and the Buy Me a Coffee button are still remote images and are not part of this job.
+Leave the marker comments in place. Text outside the markers is left as it is. Skill icons live in `assets/icons/` and are not redrawn by this job. Social icons and the Buy Me a Coffee button are still remote images.
 
 ### Run it locally
 

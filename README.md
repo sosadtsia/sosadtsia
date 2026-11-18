@@ -8,25 +8,25 @@
 
 ### DevOps & Infrastructure
 <p align="left">
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" /></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="36" height="36" alt="Ansible" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="36" height="36" alt="ArgoCD" /></a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="36" height="36" alt="Helm" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="./assets/icons/terraform.png" width="36" height="36" alt="Terraform" /></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/ansible.png" width="36" height="36" alt="Ansible" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/docker.png" width="36" height="36" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="./assets/icons/kubernetes.png" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="./assets/icons/argocd.png" width="36" height="36" alt="ArgoCD" /></a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="./assets/icons/helm.png" width="36" height="36" alt="Helm" /></a>
 </p>
 
 ### Programming & Tools
 <p align="left">
-<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/go.png" width="36" height="36" alt="Go" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/python.png" width="36" height="36" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="./assets/icons/bash.png" width="36" height="36" alt="Bash" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
 ### Cloud
 <p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="40" alt="Amazon Web Services" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/amazonwebservices.png" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
 ## 🚀 Projects
