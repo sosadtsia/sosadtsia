@@ -32,16 +32,16 @@
 ## 🚀 Projects
 
 <!-- profile:projects -->
-<a href="https://github.com/sosadtsia/awake"><img src="./assets/pin-awake.png?v=8b99b87e9573" alt="awake" width="400" /></a>
-<a href="https://github.com/sosadtsia/github-manager-cli"><img src="./assets/pin-github-manager-cli.png?v=15ec0ecf7645" alt="github-manager-cli" width="400" /></a>
+<a href="https://github.com/sosadtsia/awake"><img src="./assets/pin-awake.png?v=5f2dbebeda4e" alt="awake" width="400" /></a>
+<a href="https://github.com/sosadtsia/github-manager-cli"><img src="./assets/pin-github-manager-cli.png?v=89b9b7a30fe7" alt="github-manager-cli" width="400" /></a>
 <!-- /profile:projects -->
 
 ## 📊 GitHub Stats
 
 <!-- profile:stats -->
-<a href="https://github.com/sosadtsia"><img src="./assets/stats.png?v=961400ca8c7c" alt="GitHub stats" width="495" /></a>
-<a href="https://github.com/sosadtsia"><img src="./assets/languages.png?v=63b93150a230" alt="Top languages" width="320" /></a>
-<a href="https://github.com/sosadtsia"><img src="./assets/streak.png?v=a5cc8a236009" alt="Contribution streak" width="495" /></a>
+<a href="https://github.com/sosadtsia"><img src="./assets/stats.png?v=821ec053cb4e" alt="GitHub stats" width="495" /></a>
+<a href="https://github.com/sosadtsia"><img src="./assets/languages.png?v=e8184aa3aa84" alt="Top languages" width="320" /></a>
+<a href="https://github.com/sosadtsia"><img src="./assets/streak.png?v=847799448311" alt="Contribution streak" width="495" /></a>
 <!-- /profile:stats -->
 
 ## 🔗 Connect With Me
