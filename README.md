@@ -31,35 +31,18 @@
 
 ## 🚀 Projects
 
-<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/sosadtsia/awake">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsia&repo=awake&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/sosadtsia/github-manager-cli">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sosadtsia&repo=github-manager-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-    </a>
-  </div>
-</div>
+<!-- profile:projects -->
+<a href="https://github.com/sosadtsia/awake"><img src="./assets/pin-awake.png?v=8b99b87e9573" alt="awake" width="400" /></a>
+<a href="https://github.com/sosadtsia/github-manager-cli"><img src="./assets/pin-github-manager-cli.png?v=15ec0ecf7645" alt="github-manager-cli" width="400" /></a>
+<!-- /profile:projects -->
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <a href="https://github.com/sosadtsia">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sosadtsia&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Slav's GitHub stats" />
-  </a>
-
-  <a href="https://github.com/sosadtsia">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sosadtsia&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <a href="https://github.com/sosadtsia">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosadtsia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+<!-- profile:stats -->
+<a href="https://github.com/sosadtsia"><img src="./assets/stats.png?v=961400ca8c7c" alt="GitHub stats" width="495" /></a>
+<a href="https://github.com/sosadtsia"><img src="./assets/languages.png?v=63b93150a230" alt="Top languages" width="320" /></a>
+<a href="https://github.com/sosadtsia"><img src="./assets/streak.png?v=a5cc8a236009" alt="Contribution streak" width="495" /></a>
+<!-- /profile:stats -->
 
 ## 🔗 Connect With Me
 
