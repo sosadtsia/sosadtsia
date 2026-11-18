@@ -22,7 +22,7 @@ This repo is the GitHub profile for [sosadtsia](https://github.com/sosadtsia). `
 gh workflow run "Update profile cards" --repo sosadtsia/sosadtsia
 ```
 
-The job uses `ubuntu-latest`, Python 3.15, and `contents: write`. Actions are pinned:
+The job uses `ubuntu-26.04`, Python 3.15, and `contents: write`. Actions are pinned:
 
 - `actions/checkout` `11d5960a326750d5838078e36cf38b85af677262` (v4.4.0)
 - `actions/setup-python` `a26af69be951a213d495a4c3e4e4022e16d87065` (v5.6.0)
