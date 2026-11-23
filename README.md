@@ -39,9 +39,9 @@
 ## 📊 GitHub Stats
 
 <!-- profile:stats -->
-<a href="https://github.com/sosadtsia"><img src="./assets/stats.png?v=df964042abfa" alt="GitHub stats" width="495" /></a>
+<a href="https://github.com/sosadtsia"><img src="./assets/stats.png?v=b4ad676e118f" alt="GitHub stats" width="495" /></a>
 <a href="https://github.com/sosadtsia"><img src="./assets/languages.png?v=e4cea9bedf54" alt="Top languages" width="320" /></a>
-<a href="https://github.com/sosadtsia"><img src="./assets/streak.png?v=b46a4dc51564" alt="Contribution streak" width="495" /></a>
+<a href="https://github.com/sosadtsia"><img src="./assets/streak.png?v=9e7883548d09" alt="Contribution streak" width="495" /></a>
 <!-- /profile:stats -->
 
 ## 🔗 Connect With Me
